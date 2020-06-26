@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to JainBook
 
 You can use the [editor on GitHub](https://github.com/richajain9596/richajain.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
